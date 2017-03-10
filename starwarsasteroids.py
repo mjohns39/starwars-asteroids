@@ -1,7 +1,3 @@
-#Michael Johnson
-#CS 475 Spring 2015
-#Programming Assignment 2
-#Python and Pygame
 
 
 import pygame
